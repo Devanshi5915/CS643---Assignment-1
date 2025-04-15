@@ -1,4 +1,4 @@
-# CS643---Assignment-1
+# CS643---Cloud Computing
 
 Description:
 
